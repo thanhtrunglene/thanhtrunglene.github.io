@@ -295,19 +295,27 @@ section{
 }
 
 .js:after{
+  width: 50%;
+}
+
+.pts:after{
+  width: 70%;
+}
+
+.ill:after{
   width: 60%;
 }
 
-.php:after{
+.wp:after{
   width: 70%;
 }
 
-.mysql:after{
+.w:after{
   width: 70%;
 }
 
-.cs:after{
-  width: 70%;
+.p:after{
+  width: 80%;
 }
 
 section.dark{
